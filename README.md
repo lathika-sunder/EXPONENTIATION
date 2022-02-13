@@ -27,7 +27,7 @@ def expo():
 print("Exponentiation of a given number:",expo())
 
 ## Output:
-![exponentiation of a number](expontiationoutput.png)
+![exponentiation of a number](./EX06OUTPUT.png.png)
 
 
 ## Result:
